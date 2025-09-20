@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Value Added VAT_ Rate (constant)
+// #0. Value Added VAT_ Rate (constant)
 
 int main(void)
 {
@@ -41,3 +41,4 @@ int main(void)
 
     return 0;
 }
+
