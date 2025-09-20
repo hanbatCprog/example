@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define VAT_RATE 0.1 // Value Added Tax Rate (constant)
+// Value Added VAT_ Rate (constant)
 
 int main(void)
 {
@@ -15,6 +15,7 @@ int main(void)
     // Input prompt and value storage
     printf("Enter the original price: ");
     // #1. Use scanf to read an integer and store it in the original_price variable.
+    
 
     printf("Enter the discount rate (%%): "); 
     scanf("%d", &discount_percent);
@@ -39,5 +40,4 @@ int main(void)
     printf("Total final price: %.2f\n", final_price);
 
     return 0;
-
 }
