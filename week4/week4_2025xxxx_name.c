@@ -22,7 +22,6 @@ int main(void)
     // --- Calculation Process ---
     
     // #2. Calculate the price after discount.
-    // Formula: original_price * (100 - discount_percent) / 100
     price_after_discount = 
     
     
@@ -40,4 +39,5 @@ int main(void)
     printf("Total final price: %.2f\n", final_price);
 
     return 0;
+
 }
