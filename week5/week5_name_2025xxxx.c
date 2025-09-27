@@ -23,7 +23,7 @@ int main(void) {
 	//Cast it to an Integer.
 	avg_int = ;
 	
-	printf("Average Score(Integer): %d\n", rounded);
+	printf("Average Score(Integer): %d\n", avg_int);
 	
 	//Decide the final grade.
 	grade = () ? 'A'
